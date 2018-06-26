@@ -1,0 +1,34 @@
+[
+{
+"question":"7 + 3 = ?",
+"answer":"10",
+"opt1":"12",
+"opt2":"14",
+"opt3":"15",
+"opt4":"10"
+},
+{
+"question":"100 + 150 = ?",
+"answer":"150",
+"opt1":"850",
+"opt2":"15000",
+"opt3":"150",
+"opt4":"750"
+},
+{
+"question":"What is your name?",
+"answer":"Hai",
+"opt1":"hai",
+"opt2":"utwee",
+"opt3":"sgd",
+"opt4":"sdfxj"
+},
+{
+"question":"Which is the spelling of hai?",
+"answer":"hai",
+"opt1":"hai",
+"opt2":"utwee",
+"opt3":"sgd",
+"opt4":"sdfxj"
+}
+]

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var myObj = JSON.parse(this.responseText);
+        document.getElementById("demo").innerHTML=myObj.question;
+    }
+};
+xmlhttp.open("GET", "text.txt", true);
+xmlhttp.send();
+/*var mydata = JSON.parse(data);
+alert(mydata[0].question);*/
+</script>
+</body>
+</html>

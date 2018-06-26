@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <meta name="google-signin-client_id" content="238069766951-tp1jsk2l8khgjdt3iegoha46ppplum1m.apps.googleusercontent.com">
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+<script>
+function onSignIn(googleUser) {
+  var profile = googleUser.getBasicProfile();
+  document.getElementById("google").innerHTML=profile.getId(); // Do not send to your backend! Use an ID token instead.
+  document.getElementById("googl").innerHTML=profile.getName();
+  document.getElementById("goog").innerHTML=profile.getImageUrl();
+  document.getElementById("goo").innerHTML=profile.getEmail(); 
+  console.log("Hai");// This is null if the 'email' scope is not present.
+}
+function signOut() {
+    var auth2 = gapi.auth2.getAuthInstance();
+    auth2.signOut().then(function () {
+      console.log('User signed out.');
+    });
+  }
+</script>
+
+</head>
+<body>
+<div class="g-signin2" data-onsuccess="onSignIn"></div>
+<a href="#" onclick="signOut();">Sign out</a>
+</body>
+</html>

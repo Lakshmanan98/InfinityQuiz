@@ -1,0 +1,92 @@
+[
+{
+"id":"1",
+"question":"From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
+"answer":"1/221",
+"opt1":"1/15",
+"opt2":"25/57",
+"opt3":"35/256",
+"opt4":"1/221"
+},
+{
+"id":"2",
+"question":"From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+"answer":"756",
+"opt1":"564",
+"opt2":"756",
+"opt3":"735",
+"opt4":"None of These"
+},
+{
+"id":"3",
+"question":"There is 60% increase in an amount in 6 years at simple interest. What will be the compound interest of Rs. 12,000 after 3 years at the same rate?",
+"answer":"Rs.3972",
+"opt1":"Rs.3120",
+"opt2":"Rs.3972",
+"opt3":"Rs.6240",
+"opt4":"Rs.2160"
+},
+{
+"id":"4",
+"question":"A man invested Rs. 4455 in Rs. 10 shares quoted at Rs. 8.25. If the rate of dividend be 12%, his annual income is:",
+"answer":"Rs.648",
+"opt1":"Rs.Rs.207.40",
+"opt2":"Rs.534.60",
+"opt3":"Rs.648",
+"opt4":"Rs.655.60"
+},
+{
+"id":"5",
+"question":"The sum of two number is 25 and their difference is 13. Find their product.",
+"answer":"114",
+"opt1":"104",
+"opt2":"114",
+"opt3":"315",
+"opt4":"325"
+},
+{
+"id":"6",
+"question":"What was the day of the week on 28th May, 2006?",
+"answer":"Sunday",
+"opt1":"Thursday",
+"opt2":"Friday",
+"opt3":"Saturday",
+"opt4":"Sunday"
+},
+{
+"id":"7",
+"question":"Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+"answer":"2:3:4",
+"opt1":"2:3:4",
+"opt2":"6:7:8",
+"opt3":"6:8:9",
+"opt4":"None of these"
+},
+{
+"id":"8",
+"question":"A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
+"answer":"7.2",
+"opt1":"3.6",
+"opt2":"7.2",
+"opt3":"8.4",
+"opt4":"None of these"
+},
+{
+"id":"9",
+"question":"A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:",
+"answer":"40",
+"opt1":"10",
+"opt2":"20",
+"opt3":"40",
+"opt4":"73"
+},
+{
+"id":"10",
+"question":"A, B, C rent a pasture. A puts 10 oxen for 7 months, B puts 12 oxen for 5 months and C puts 15 oxen for 3 months for grazing. If the rent of the pasture is Rs. 175, how much must C pay as his share of rent?",
+"answer":"Rs.45",
+"opt1":"Rs.45",
+"opt2":"Rs.50",
+"opt3":"Rs.55",
+"opt4":"Rs.60"
+}
+]

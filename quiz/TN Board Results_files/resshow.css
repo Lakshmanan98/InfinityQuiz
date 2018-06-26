@@ -1,0 +1,82 @@
+﻿.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #003399;
+	text-decoration: none;
+}
+.subtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #003333;
+	text-decoration: none;
+}
+.directorate {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #990000;
+	text-decoration: none;
+	text-align: right;
+}
+.redtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #003399;
+	text-decoration: none;
+}
+ 
+.auto-style1 {
+	border: 1px solid #800000;
+	border-collapse: collapse;
+}
+.sslctext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #992299;
+}
+.design {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	padding:.6em;
+}
+ 
+.disclaimer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+} 
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #003366;
+	text-decoration: none;
+}
+
+.sslctext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	background-color: #992299;
+} 
+.dontprintme { display: none; }
+
+ul, ol {
+padding: 0;
+margin-left: 1em;
+list-style-image: url('bullet.gif');
+}

@@ -1,0 +1,92 @@
+[
+{
+"id":"1",
+"question":"At a conference, 12 members shook hands with each other before & after the meeting. How many total number of hand shakes occurred?",
+"answer":"132",
+"opt1":"100",
+"opt2":"132",
+"opt3":"144",
+"opt4":"121"
+},
+{
+"id":"2",
+"question":"The day after the day after tomorrow is four days before Monday. What day is it today?",
+"answer":"Monday",
+"opt1":"Monday",
+"opt2":"Tuesday",
+"opt3":"Wednesday",
+"opt4":"Friday"
+},
+{
+"id":"3",
+"question":"In the above problem, E is lighter in weight than which of the following pairs?",
+"answer":"A,B",
+"opt1":"D,C",
+"opt2":"B,D",
+"opt3":"A,D",
+"opt4":"A,B"
+},
+{
+"id":"4",
+"question":"6121135 is to flame as 21215120 is to ?",
+"answer":"bloat",
+"opt1":"bloat",
+"opt2":"voice",
+"opt3":"castle",
+"opt4":"bald"
+},
+{
+"id":"5",
+"question":"Forest is to tree as tree is to ?",
+"answer":"leaf",
+"opt1":"plant",
+"opt2":"leaf",
+"opt3":"branch",
+"opt4":"mangrove"
+},
+{
+"id":"6",
+"question":"29, 27, 24, 20, 15… What is next?",
+"answer":"9",
+"opt1":"10",
+"opt2":"11",
+"opt3":"7",
+"opt4":"9"
+},
+{
+"id":"7",
+"question":"Which one of the five choices makes the best comparison? PEACH is to HCAEP as 46251 is to:",
+"answer":"15264",
+"opt1":"51462",
+"opt2":"12654",
+"opt3":"15264",
+"opt4":"26541"
+},
+{
+"id":"8",
+"question":"5, 10, 19, 32, 49, 70… What is next?",
+"answer":"95",
+"opt1":"100",
+"opt2":"121",
+"opt3":"95",
+"opt4":"99"
+},
+{
+"id":"9",
+"question":"Which one of the numbers does not belong in the following series? 2 – 3 – 6 – 7 – 8 – 14 – 15 – 30",
+"answer":"8",
+"opt1":"30",
+"opt2":"15",
+"opt3":"8",
+"opt4":"7"
+},
+{
+"id":"10",
+"question":"If you rearrange the letter “CIFAIPC” you would have the name of a(n):",
+"answer":"Ocean",
+"opt1":"City",
+"opt2":"Animal",
+"opt3":"River",
+"opt4":"Ocean"
+}
+]
